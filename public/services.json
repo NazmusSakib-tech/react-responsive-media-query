@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Replace Tire",
+        "price": 2000,
+        "time": 2,
+        "img": "https://i.ibb.co/rpJ8JyH/4.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium impedit necessitatibus ipsa possimus placeat nam facilis! Ea voluptatem sequi molestias! Laborum amet similique, sit ullam cumque ab deleniti id unde."
+    },
+    {
+        "id": 2,
+        "name": "Change Engine",
+        "price": 3000,
+        "time": 3,
+        "img": "https://i.ibb.co/jJN1162/3.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium impedit necessitatibus ipsa possimus placeat nam facilis! Ea voluptatem sequi molestias! Laborum amet similique, sit ullam cumque ab deleniti id unde."
+    },
+    {
+        "id": 3,
+        "name": "Change Mobile",
+        "price": 4000,
+        "time": 1,
+        "img": "https://i.ibb.co/mHCnDJY/2.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium impedit necessitatibus ipsa possimus placeat nam facilis! Ea voluptatem sequi molestias! Laborum amet similique, sit ullam cumque ab deleniti id unde."
+    },
+    {
+        "id": 4,
+        "name": "Work on suspention",
+        "price": 5000,
+        "time": 4,
+        "img": "https://i.ibb.co/wrV6M9S/6.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium impedit necessitatibus ipsa possimus placeat nam facilis! Ea voluptatem sequi molestias! Laborum amet similique, sit ullam cumque ab deleniti id unde."
+    },
+    {
+        "id": 5,
+        "name": "Ghear Box Change",
+        "price": 3800,
+        "time": 3,
+        "img": "https://i.ibb.co/tq9034d/1.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium impedit necessitatibus ipsa possimus placeat nam facilis! Ea voluptatem sequi molestias! Laborum amet similique, sit ullam cumque ab deleniti id unde."
+    },
+    {
+        "id": 6,
+        "name": "Oil Flow Contrl",
+        "price": 4200,
+        "time": 4,
+        "img": "https://i.ibb.co/2YsBWJr/5.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium impedit necessitatibus ipsa possimus placeat nam facilis! Ea voluptatem sequi molestias! Laborum amet similique, sit ullam cumque ab deleniti id unde."
+    }
+]
