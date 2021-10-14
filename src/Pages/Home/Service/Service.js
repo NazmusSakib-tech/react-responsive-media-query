@@ -1,8 +1,9 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './Service.css';
 
 const Service = (props) => {
-    const {name, price, img, time,description} = props.service;
+    const {id, name, price, img, time, description } = props.service;
     return (
         <div className="service-container">
             <img src={img} alt="" />
@@ -10,6 +11,9 @@ const Service = (props) => {
             <h5>Price: {price}</h5>
             <p>{time}</p>
             <p>{description}</p>
+            <Link to={`/booking/${id}`}>
+                <button className="btn btn-warning">Book {name.toLowerCase()}</button>
+            </Link>
         </div>
     );
 };
